@@ -1,0 +1,21 @@
+.main-container{
+    display: flex;
+    margin-bottom: 10px;
+    border-bottom: 2px solid black;
+    
+}
+
+.main-container .info{
+    padding-left: 2rem;
+}
+
+
+.cart-add-btn{
+    background-color: goldenrod;
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    color: white;
+    margin-bottom: 5px;
+    border-radius: 7px;
+}
